@@ -1,0 +1,14 @@
+{
+  "name": "js-orderbook",
+  "version": "1.0.0",
+  "description": "test task",
+  "main": "index.js",
+  "repository": "https://github.com/naruto0913/js-orderbook.git",
+  "author": "naruto0913 <abe.sinjiro7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "grenache-grape": "^0.9.11",
+    "grenache-nodejs-http": "^0.7.12",
+    "grenache-nodejs-link": "^0.7.12"
+  }
+}
