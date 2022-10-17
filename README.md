@@ -18,6 +18,7 @@ PORT=4000 GPORT=40001 node server.js
 You should set GPORT as following
 ```js
 GPORT=30001 node client.js
+GPORT=40001 node client.js
 ```
 
 # Problems I am having
