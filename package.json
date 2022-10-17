@@ -9,6 +9,8 @@
   "dependencies": {
     "grenache-grape": "^0.9.11",
     "grenache-nodejs-http": "^0.7.12",
-    "grenache-nodejs-link": "^0.7.12"
+    "grenache-nodejs-link": "^0.7.12",
+    "is-null": "^1.0.1",
+    "limit-order-book": "^0.3.0"
   }
 }

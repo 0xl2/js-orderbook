@@ -119,3 +119,8 @@ peer.request('rpc_test', { msg: 'hello' }, { timeout: 10000 }, (err, data) => {
  - http://blog.bitfinex.com/tutorial/bitfinex-loves-microservices-grenache/
  - https://github.com/bitfinexcom/grenache-nodejs-example-fib-client
  - https://github.com/bitfinexcom/grenache-nodejs-example-fib-server
+
+
+### Tips
+The best price a buyer is willing to pay for a security is called the “bid,” 
+The best price the seller is willing to accept is called the “ask.”
